@@ -1,6 +1,7 @@
 /* Non-responsive. */
-.container {
+body {
   display: grid;
+  font-family: "Lexend Deca", sans-serif;
   grid-gap: 5px;
   grid-template-columns: repeat(3, 320px);
   grid-template-rows: repeat(5, 550px);
@@ -8,4 +9,11 @@
   width: 1200px;
 }
 
-/* Style everything scoped to your <section> id! You do not need to use `display: grid` - just stick with the things we learned in class and be creative. */
+body section {
+  border: solid thin black;
+}
+
+/* Style everything scoped to your <section> id! You do not need to use `display: grid` - just stick with the things we learned in class and be creative. `font-family` is already done for you.
+
+Be sure to take pride in your work and organize your styles properly and resolve any 'red lines.'
+*/
