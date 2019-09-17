@@ -34,3 +34,21 @@ font-weight: lighter;
 
 Be sure to take pride in your work and organize your styles properly and resolve any 'red lines.'
 */
+
+#student-8 {
+  background-color: #B5C9BF;
+}
+
+#student-8 a {
+  color: #235258;
+  background: #ffffff;
+  font-size: 25px;
+}
+
+#student-8 h2 {
+  font-style: italic;
+}
+
+#student-8 img {
+  max-width: 250px;
+}
