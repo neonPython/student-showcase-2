@@ -9,21 +9,21 @@ body {
   width: 1200px;
 }
 
-student-3 body section {
+#student-3 body section {
   border: solid thin black;
 }
 
-student-3 h2 {
+#student-3 h2 {
   color: #D81E5B;
   font-weight: bold;
 }
 
-student-3 li {
+#student-3 li {
 color: #3A3335;
 font-weight: lighter;
 }
 
-student-3 p {
+#student-3 p {
   color: #000
   background-color: #FDEFD5;
 }
