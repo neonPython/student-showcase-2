@@ -9,9 +9,26 @@ body {
   width: 1200px;
 }
 
-body section {
+#student-3 body section {
   border: solid thin black;
 }
+
+#student-3 h2 {
+  color: #D81E5B;
+  font-weight: bold;
+}
+
+#student-3 li {
+color: #3A3335;
+font-weight: lighter;
+}
+
+#student-3 p {
+  color: #000
+  background-color: #FDEFD5;
+}
+
+
 
 /* Style everything scoped to your <section> id! You do not need to use `display: grid` - just stick with the things we learned in class and be creative. `font-family` is already done for you.
 
